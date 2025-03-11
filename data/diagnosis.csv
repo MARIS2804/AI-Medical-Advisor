@@ -1,0 +1,1001 @@
+Gender,Age,Patient History,Smoking,Obesity,Genetic History,Disease,Diagnostic Advice
+Male,89,Family history of heart disease,Yes,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,35,Family history of heart disease,Yes,No,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,49,No significant history,Occasionally,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Male,27,No significant history,Yes,No,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,6,Diabetes in family,Occasionally,Yes,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,73,Previous hospitalizations,Yes,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Male,79,Family history of heart disease,No,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,11,Frequent infections,Occasionally,Yes,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,6,Diabetes in family,Yes,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,72,No significant history,Yes,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,20,Frequent infections,Yes,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,20,Frequent infections,No,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,78,Previous hospitalizations,Occasionally,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,71,Diabetes in family,No,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,4,Previous hospitalizations,Yes,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,75,Family history of heart disease,Occasionally,Yes,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,71,Frequent infections,No,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,17,Diabetes in family,Yes,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,41,Frequent infections,Occasionally,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,45,Frequent infections,Yes,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,39,Previous hospitalizations,Yes,Yes,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,19,No significant history,No,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,7,No significant history,Yes,Yes,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,22,Family history of heart disease,Occasionally,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,16,Family history of heart disease,Occasionally,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,8,Frequent infections,Occasionally,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,51,Family history of heart disease,No,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,66,Previous hospitalizations,Occasionally,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,18,Diabetes in family,Yes,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,20,Previous hospitalizations,Occasionally,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,72,History of migraines,Occasionally,Yes,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,11,History of hypertension,No,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,22,No significant history,Occasionally,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,27,Diabetes in family,Occasionally,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,16,Frequent infections,No,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,45,History of migraines,Occasionally,Yes,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,46,Diabetes in family,Yes,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Female,68,History of migraines,No,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,64,Frequent infections,No,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,95,Previous hospitalizations,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,81,Previous hospitalizations,Occasionally,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,61,History of migraines,Occasionally,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,44,History of hypertension,Yes,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,87,Family history of heart disease,No,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,57,Previous hospitalizations,No,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,11,Frequent infections,No,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,69,Family history of heart disease,Yes,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,58,History of hypertension,Occasionally,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,61,Diabetes in family,Yes,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,6,Family history of heart disease,No,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,66,Family history of heart disease,Yes,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,5,History of migraines,Yes,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,69,No significant history,Yes,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,69,No significant history,No,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,28,Frequent infections,Yes,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,79,Family history of heart disease,No,Yes,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,16,Family history of heart disease,Yes,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,25,History of hypertension,Occasionally,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,59,History of hypertension,Occasionally,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,69,Frequent infections,No,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,64,Family history of heart disease,Yes,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,83,Previous hospitalizations,Yes,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,13,Diabetes in family,Occasionally,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,36,Diabetes in family,Yes,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,88,Frequent infections,Occasionally,Yes,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,56,Family history of heart disease,Occasionally,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,14,No significant history,No,Yes,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,94,Frequent infections,Yes,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,81,No significant history,Yes,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,16,History of hypertension,No,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,67,History of hypertension,Yes,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,23,Family history of heart disease,Yes,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,67,Diabetes in family,No,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,52,Frequent infections,No,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Other,3,Family history of heart disease,Yes,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,84,Frequent infections,Occasionally,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,25,History of hypertension,Yes,Yes,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Other,88,Frequent infections,No,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,44,Diabetes in family,Yes,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,76,History of migraines,Yes,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,40,Diabetes in family,Occasionally,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Other,49,Frequent infections,Yes,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,40,History of hypertension,No,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,55,Diabetes in family,No,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,90,History of migraines,Occasionally,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,52,Family history of heart disease,No,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,20,History of hypertension,Yes,No,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,5,Frequent infections,Yes,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,68,History of migraines,No,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,41,Diabetes in family,Occasionally,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,21,No significant history,No,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,19,Previous hospitalizations,Yes,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,10,Diabetes in family,Occasionally,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,6,Diabetes in family,No,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,14,Previous hospitalizations,Occasionally,Yes,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,44,Frequent infections,No,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,65,Frequent infections,Yes,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,15,History of hypertension,No,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,65,Diabetes in family,No,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,51,History of migraines,No,Yes,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,40,Frequent infections,Occasionally,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,59,Family history of heart disease,No,No,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,81,Diabetes in family,Yes,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,33,History of migraines,Occasionally,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,76,Frequent infections,No,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,1,History of hypertension,Occasionally,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,98,Diabetes in family,Occasionally,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,59,Diabetes in family,Occasionally,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,88,Family history of heart disease,Yes,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,40,History of migraines,Occasionally,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,59,History of hypertension,Occasionally,Yes,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Male,41,History of hypertension,Occasionally,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,2,Frequent infections,No,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,63,History of hypertension,Occasionally,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,35,Previous hospitalizations,No,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,69,Frequent infections,No,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,15,History of migraines,No,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,39,History of hypertension,No,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,78,History of migraines,Occasionally,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,23,Previous hospitalizations,Occasionally,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,66,Diabetes in family,Yes,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,46,No significant history,Yes,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,74,History of migraines,Occasionally,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,31,History of migraines,No,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,30,History of hypertension,Occasionally,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,60,History of migraines,Yes,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,58,Frequent infections,Yes,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,83,Frequent infections,Occasionally,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,24,Frequent infections,Yes,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,62,Previous hospitalizations,No,Yes,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,85,No significant history,Yes,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Male,17,Previous hospitalizations,Yes,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,56,Diabetes in family,No,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,66,History of hypertension,No,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,85,Previous hospitalizations,No,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Female,96,History of migraines,No,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,37,No significant history,Occasionally,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,35,No significant history,No,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,93,Frequent infections,Occasionally,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,68,No significant history,Yes,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,64,History of hypertension,Occasionally,Yes,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,22,Family history of heart disease,Yes,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,61,Diabetes in family,Occasionally,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,94,History of hypertension,No,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,37,No significant history,Occasionally,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,22,Frequent infections,Yes,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,28,No significant history,Occasionally,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,33,Family history of heart disease,Yes,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,77,Previous hospitalizations,Yes,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,68,History of hypertension,Yes,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,28,Frequent infections,Yes,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,24,History of hypertension,Occasionally,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,74,Previous hospitalizations,Occasionally,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,77,Diabetes in family,No,Yes,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,47,Diabetes in family,Occasionally,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,97,History of migraines,Occasionally,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,90,Family history of heart disease,No,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,71,Family history of heart disease,No,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,62,Family history of heart disease,No,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,24,No significant history,No,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,61,Family history of heart disease,Occasionally,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,70,Family history of heart disease,No,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,93,History of migraines,No,Yes,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,81,Diabetes in family,Occasionally,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,43,Previous hospitalizations,No,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,75,History of hypertension,No,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,48,History of migraines,No,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,64,Frequent infections,Yes,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,53,No significant history,Yes,Yes,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,61,Frequent infections,Yes,No,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,7,Frequent infections,Yes,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,22,Frequent infections,No,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,62,History of hypertension,Occasionally,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,73,Family history of heart disease,No,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Other,8,Previous hospitalizations,No,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,79,History of migraines,No,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,52,History of hypertension,Occasionally,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,53,Frequent infections,Occasionally,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,57,No significant history,Occasionally,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,51,Diabetes in family,Yes,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,60,Frequent infections,No,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,63,No significant history,Occasionally,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,99,History of hypertension,Occasionally,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,40,Diabetes in family,Occasionally,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,17,Previous hospitalizations,No,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,65,Family history of heart disease,Yes,Yes,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,84,Previous hospitalizations,Occasionally,No,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,44,Diabetes in family,Yes,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,39,No significant history,No,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,87,Family history of heart disease,Occasionally,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,46,Diabetes in family,No,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,11,Frequent infections,Occasionally,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,95,Diabetes in family,Yes,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,96,Diabetes in family,Occasionally,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,47,History of migraines,Occasionally,Yes,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Other,42,History of migraines,No,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,50,Frequent infections,Yes,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,94,History of hypertension,Occasionally,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,33,Previous hospitalizations,Occasionally,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,94,Frequent infections,Occasionally,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,9,Frequent infections,Yes,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,17,History of migraines,Yes,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,97,Family history of heart disease,Occasionally,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,61,No significant history,Occasionally,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,60,Family history of heart disease,No,Yes,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,22,No significant history,No,No,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,83,History of migraines,No,No,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,58,History of hypertension,Occasionally,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,64,History of hypertension,Yes,Yes,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,18,No significant history,Yes,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,31,History of hypertension,No,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,49,History of migraines,No,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,97,Previous hospitalizations,No,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Female,53,Family history of heart disease,No,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,30,Frequent infections,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,14,No significant history,No,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,54,Frequent infections,No,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,32,No significant history,No,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,10,Family history of heart disease,Occasionally,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,76,History of hypertension,No,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,97,History of migraines,No,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,9,Previous hospitalizations,No,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,38,History of migraines,Occasionally,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,84,Frequent infections,Occasionally,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,66,History of migraines,No,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,96,History of hypertension,Occasionally,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,1,Previous hospitalizations,Yes,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Male,50,Diabetes in family,No,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,72,History of migraines,Occasionally,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,86,Frequent infections,Yes,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,15,History of hypertension,Yes,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,37,Previous hospitalizations,No,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,44,Previous hospitalizations,Yes,Yes,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,55,Previous hospitalizations,No,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,23,Family history of heart disease,Yes,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,44,Previous hospitalizations,No,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,33,Diabetes in family,No,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,76,Diabetes in family,No,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,43,Diabetes in family,Occasionally,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,96,Family history of heart disease,Occasionally,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,46,Frequent infections,Yes,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,46,History of migraines,No,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,42,Diabetes in family,Occasionally,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,35,No significant history,Occasionally,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,14,Family history of heart disease,Occasionally,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,11,Diabetes in family,Yes,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,77,History of hypertension,Occasionally,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,70,Diabetes in family,No,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,30,History of migraines,Yes,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,21,Family history of heart disease,Occasionally,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,43,History of hypertension,No,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,90,History of hypertension,Yes,Yes,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,49,Frequent infections,No,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,11,Family history of heart disease,No,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,86,Diabetes in family,Yes,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,58,No significant history,Yes,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,69,No significant history,Occasionally,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,4,History of migraines,Yes,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Other,95,Family history of heart disease,Occasionally,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,94,History of migraines,No,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,93,Diabetes in family,Occasionally,No,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,80,History of hypertension,No,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,72,No significant history,Yes,No,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,75,History of hypertension,Occasionally,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,15,Family history of heart disease,Yes,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,72,History of migraines,No,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,87,History of migraines,Yes,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,15,No significant history,Yes,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,75,Family history of heart disease,Yes,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,50,No significant history,No,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,56,Family history of heart disease,Yes,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,58,History of migraines,No,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,28,Family history of heart disease,Yes,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,63,History of migraines,No,Yes,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,67,History of hypertension,Yes,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,78,History of hypertension,Occasionally,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,80,No significant history,Yes,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,26,History of migraines,No,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,59,Previous hospitalizations,Occasionally,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,87,No significant history,Occasionally,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,43,Previous hospitalizations,Occasionally,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,2,Diabetes in family,No,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,21,Previous hospitalizations,No,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,34,Previous hospitalizations,No,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,84,No significant history,No,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,6,Diabetes in family,No,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,76,Family history of heart disease,Occasionally,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,99,History of hypertension,Occasionally,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,29,Family history of heart disease,Occasionally,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,94,Frequent infections,Yes,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,67,Diabetes in family,No,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,22,History of migraines,Occasionally,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,77,No significant history,Yes,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,74,No significant history,No,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,42,History of hypertension,No,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,6,Family history of heart disease,Occasionally,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,32,History of hypertension,Occasionally,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,33,History of migraines,Occasionally,No,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,1,History of migraines,Occasionally,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,9,Previous hospitalizations,Yes,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,84,Diabetes in family,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,84,Previous hospitalizations,Occasionally,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,23,Previous hospitalizations,Yes,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,20,History of migraines,Yes,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,51,Family history of heart disease,Yes,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,73,Frequent infections,Occasionally,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,76,Family history of heart disease,Yes,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,93,Diabetes in family,Yes,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,91,Previous hospitalizations,Yes,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,3,History of hypertension,Yes,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,75,History of hypertension,No,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,66,Previous hospitalizations,Occasionally,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,94,History of hypertension,Occasionally,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,22,History of hypertension,No,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,19,No significant history,Occasionally,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,80,No significant history,Yes,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,23,Diabetes in family,No,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,64,History of hypertension,No,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,48,Family history of heart disease,No,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,94,Family history of heart disease,No,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,3,No significant history,Occasionally,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,94,Family history of heart disease,Yes,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,66,Frequent infections,No,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,23,Previous hospitalizations,Occasionally,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,8,No significant history,Yes,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,12,History of hypertension,Occasionally,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,3,Family history of heart disease,Yes,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,87,No significant history,Occasionally,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,76,History of migraines,Occasionally,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,23,Diabetes in family,Occasionally,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,46,Diabetes in family,Occasionally,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,12,History of migraines,Yes,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,97,History of hypertension,Yes,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,50,History of migraines,Yes,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,23,Frequent infections,Yes,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,11,History of hypertension,Occasionally,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,12,Previous hospitalizations,No,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,35,Family history of heart disease,Yes,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,15,Previous hospitalizations,No,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,41,Family history of heart disease,No,No,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,31,Previous hospitalizations,No,Yes,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,10,History of hypertension,Yes,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,52,History of hypertension,No,Yes,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,54,Frequent infections,Yes,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,17,Family history of heart disease,Occasionally,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,14,Family history of heart disease,Occasionally,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,5,Family history of heart disease,No,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,25,Previous hospitalizations,Occasionally,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,83,History of migraines,No,Yes,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,54,No significant history,No,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,94,No significant history,No,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,85,Previous hospitalizations,Occasionally,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,65,Diabetes in family,Occasionally,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,67,Frequent infections,Yes,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,82,Diabetes in family,Occasionally,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,55,Previous hospitalizations,No,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,40,No significant history,Occasionally,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,93,Family history of heart disease,Yes,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,53,Previous hospitalizations,Occasionally,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Male,29,No significant history,Occasionally,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,23,History of migraines,Yes,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,64,History of migraines,Occasionally,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,95,Frequent infections,Yes,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,24,Frequent infections,Yes,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,36,Previous hospitalizations,Yes,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,3,No significant history,Occasionally,Yes,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,35,History of hypertension,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,37,Previous hospitalizations,Yes,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,58,No significant history,No,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,10,Previous hospitalizations,Occasionally,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,5,History of migraines,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,60,Diabetes in family,Yes,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,27,History of migraines,Yes,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,90,No significant history,Occasionally,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,30,History of hypertension,No,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,12,Diabetes in family,No,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,35,Diabetes in family,Occasionally,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,65,History of migraines,No,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,71,No significant history,Yes,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,22,No significant history,Yes,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,89,Previous hospitalizations,No,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,76,Diabetes in family,Yes,Yes,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,51,Previous hospitalizations,Occasionally,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,82,Previous hospitalizations,Yes,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,37,Previous hospitalizations,Yes,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,92,No significant history,Occasionally,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,10,Family history of heart disease,Occasionally,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,44,History of hypertension,No,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,66,Family history of heart disease,No,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,3,Previous hospitalizations,Yes,Yes,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,68,History of migraines,No,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,37,Diabetes in family,Yes,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,14,History of hypertension,Occasionally,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,47,Diabetes in family,No,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,34,History of migraines,Occasionally,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,78,Previous hospitalizations,Yes,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,55,Previous hospitalizations,No,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,54,Previous hospitalizations,Occasionally,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,64,Diabetes in family,Occasionally,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,51,History of migraines,Occasionally,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,42,Previous hospitalizations,Occasionally,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,14,No significant history,Occasionally,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,84,Previous hospitalizations,No,Yes,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,75,History of migraines,Occasionally,No,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Other,55,History of migraines,No,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,84,Frequent infections,Yes,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,90,History of hypertension,Occasionally,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,55,Diabetes in family,Occasionally,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,94,History of hypertension,Occasionally,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,95,Previous hospitalizations,Yes,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,67,Diabetes in family,No,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,21,Previous hospitalizations,Occasionally,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,71,History of migraines,Yes,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,77,History of hypertension,Yes,Yes,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,18,Frequent infections,Occasionally,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,38,Family history of heart disease,Occasionally,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,7,Previous hospitalizations,Yes,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,49,Previous hospitalizations,Occasionally,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,19,Family history of heart disease,Occasionally,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,78,Frequent infections,Yes,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,2,History of hypertension,No,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Male,33,Family history of heart disease,Yes,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,83,Family history of heart disease,No,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,71,History of hypertension,No,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,36,Frequent infections,Occasionally,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,35,History of migraines,Occasionally,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,64,Previous hospitalizations,No,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,58,Frequent infections,No,Yes,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,53,Frequent infections,Occasionally,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,43,Frequent infections,Yes,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,9,Diabetes in family,Yes,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,34,Previous hospitalizations,Yes,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,86,Family history of heart disease,Occasionally,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,76,History of migraines,No,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,12,Family history of heart disease,No,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,58,History of hypertension,No,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Male,90,Previous hospitalizations,Occasionally,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,67,History of migraines,Occasionally,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,38,History of hypertension,No,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,71,No significant history,No,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,34,Previous hospitalizations,No,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,17,Diabetes in family,No,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,82,History of hypertension,No,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,84,No significant history,No,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,40,History of hypertension,Yes,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,3,Family history of heart disease,No,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,50,Frequent infections,Yes,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,27,Frequent infections,Yes,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,50,Family history of heart disease,Occasionally,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,66,History of migraines,No,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,8,No significant history,Occasionally,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,94,No significant history,Yes,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,63,Previous hospitalizations,No,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,45,History of migraines,Occasionally,No,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Other,64,History of hypertension,Occasionally,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,59,Diabetes in family,No,No,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,8,No significant history,Occasionally,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,12,Diabetes in family,Yes,No,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,42,Diabetes in family,Yes,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,63,Diabetes in family,No,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,98,Previous hospitalizations,No,No,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,99,History of hypertension,Yes,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,31,Previous hospitalizations,No,Yes,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,28,Frequent infections,No,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,35,Previous hospitalizations,No,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,67,Family history of heart disease,Yes,Yes,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,93,Family history of heart disease,Occasionally,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,12,History of migraines,No,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,82,Diabetes in family,Occasionally,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,61,Previous hospitalizations,Yes,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,73,Family history of heart disease,Yes,No,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,63,History of hypertension,Yes,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,70,History of migraines,Occasionally,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,26,Frequent infections,Yes,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,45,Frequent infections,Yes,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,90,Family history of heart disease,Yes,No,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,86,Family history of heart disease,Yes,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,72,History of migraines,Occasionally,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,68,Frequent infections,No,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,16,No significant history,No,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,90,Family history of heart disease,Yes,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,39,Family history of heart disease,Yes,No,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,42,No significant history,Occasionally,Yes,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,5,History of hypertension,Yes,No,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,38,History of hypertension,No,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,6,Diabetes in family,No,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,27,Diabetes in family,Yes,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,57,History of hypertension,Yes,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,95,Family history of heart disease,Occasionally,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,14,Diabetes in family,Yes,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,34,No significant history,No,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,95,No significant history,Yes,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,23,Diabetes in family,Occasionally,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,36,Previous hospitalizations,No,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,41,Diabetes in family,No,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,3,History of migraines,Yes,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,16,Frequent infections,Occasionally,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,70,Frequent infections,Occasionally,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,54,Diabetes in family,Occasionally,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,87,Frequent infections,Occasionally,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Male,54,No significant history,Occasionally,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,64,Frequent infections,No,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,15,Diabetes in family,Occasionally,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,37,Family history of heart disease,Occasionally,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,94,History of migraines,Yes,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,92,Previous hospitalizations,Occasionally,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,21,History of hypertension,Occasionally,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,37,Diabetes in family,Occasionally,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,60,Frequent infections,Yes,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,22,History of hypertension,Yes,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,2,Diabetes in family,Occasionally,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,25,Diabetes in family,No,Yes,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,67,History of hypertension,Occasionally,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,48,History of hypertension,Occasionally,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,77,No significant history,Occasionally,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,77,No significant history,Yes,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,7,History of hypertension,Yes,Yes,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,6,History of hypertension,Yes,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,17,History of hypertension,No,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,21,History of hypertension,Yes,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,83,History of migraines,No,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,63,History of hypertension,Yes,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,12,Frequent infections,No,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,15,Diabetes in family,Yes,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,14,Frequent infections,No,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,94,No significant history,No,Yes,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,80,Previous hospitalizations,Yes,Yes,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,3,History of hypertension,Yes,Yes,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,25,Frequent infections,Yes,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,45,Diabetes in family,Yes,Yes,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,19,History of hypertension,Occasionally,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,84,Family history of heart disease,Occasionally,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,99,Previous hospitalizations,Occasionally,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,73,History of hypertension,Occasionally,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,55,Frequent infections,Occasionally,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,96,History of hypertension,No,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,26,Frequent infections,No,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,61,No significant history,Yes,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,44,Previous hospitalizations,Yes,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Female,45,Frequent infections,No,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,4,No significant history,No,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,20,No significant history,No,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,47,Previous hospitalizations,No,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,14,Frequent infections,No,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,8,History of migraines,Occasionally,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,56,History of migraines,Occasionally,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,66,Frequent infections,Yes,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Female,41,Frequent infections,Yes,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,44,No significant history,No,Yes,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,81,Frequent infections,Yes,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,81,History of migraines,Yes,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,76,Previous hospitalizations,Occasionally,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,91,History of migraines,Yes,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,91,Previous hospitalizations,Occasionally,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,55,Family history of heart disease,Yes,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,86,Frequent infections,Yes,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,72,Previous hospitalizations,No,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,99,No significant history,Yes,Yes,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,23,Family history of heart disease,No,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,92,No significant history,Occasionally,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,79,Previous hospitalizations,No,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,14,Frequent infections,Yes,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,46,Previous hospitalizations,No,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,31,History of hypertension,Yes,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,68,Diabetes in family,Yes,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,79,Family history of heart disease,Yes,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,61,Family history of heart disease,No,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,62,Previous hospitalizations,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,56,Diabetes in family,Occasionally,Yes,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,27,History of migraines,Occasionally,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,96,Diabetes in family,Occasionally,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,31,History of migraines,Occasionally,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,3,Diabetes in family,No,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,9,Previous hospitalizations,No,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,3,History of migraines,Occasionally,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,37,Previous hospitalizations,Yes,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,76,No significant history,Yes,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,39,No significant history,Yes,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,42,No significant history,No,No,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,16,Family history of heart disease,Occasionally,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,56,History of hypertension,Yes,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,80,History of migraines,Occasionally,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,74,History of hypertension,Occasionally,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,15,Diabetes in family,Yes,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,12,Previous hospitalizations,Occasionally,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,65,History of migraines,Yes,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,45,No significant history,Occasionally,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,81,History of migraines,Yes,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,77,No significant history,No,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,27,Frequent infections,No,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,19,Previous hospitalizations,Yes,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,96,Family history of heart disease,Yes,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,74,Diabetes in family,No,No,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,71,Family history of heart disease,No,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,36,No significant history,Occasionally,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,90,History of hypertension,No,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,13,Diabetes in family,Yes,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,7,Frequent infections,Yes,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,48,No significant history,Yes,Yes,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,53,No significant history,Yes,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,57,Family history of heart disease,No,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,91,No significant history,No,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,75,History of migraines,Yes,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Male,81,Diabetes in family,Yes,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,74,Frequent infections,Yes,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,9,Family history of heart disease,Yes,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,2,Frequent infections,Occasionally,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,75,Diabetes in family,Occasionally,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,44,History of hypertension,Occasionally,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,53,History of migraines,Yes,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,25,History of migraines,Yes,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,66,History of migraines,Yes,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,79,Previous hospitalizations,Occasionally,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,51,Family history of heart disease,Occasionally,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,52,Previous hospitalizations,Yes,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,85,Diabetes in family,Occasionally,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,37,Family history of heart disease,No,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,98,Family history of heart disease,No,Yes,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,51,Family history of heart disease,Occasionally,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,68,Family history of heart disease,Yes,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,71,Diabetes in family,Occasionally,Yes,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,53,History of migraines,No,Yes,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,32,Diabetes in family,No,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,96,History of hypertension,Occasionally,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,26,Family history of heart disease,No,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,73,Family history of heart disease,Occasionally,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,38,History of migraines,Occasionally,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,30,History of migraines,Yes,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,97,History of migraines,No,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,96,Diabetes in family,Occasionally,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,26,History of migraines,Occasionally,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,32,History of hypertension,No,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,12,History of hypertension,Yes,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,31,Previous hospitalizations,Yes,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,88,No significant history,No,No,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,54,Frequent infections,Occasionally,Yes,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,57,History of hypertension,Occasionally,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,55,History of hypertension,Occasionally,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,72,Frequent infections,Occasionally,No,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,90,No significant history,No,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,3,Frequent infections,Occasionally,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,42,History of migraines,Occasionally,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,42,Frequent infections,No,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,9,Frequent infections,Yes,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,54,Family history of heart disease,No,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,2,Diabetes in family,Occasionally,Yes,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,8,History of migraines,Yes,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,38,No significant history,Occasionally,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,26,Previous hospitalizations,No,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,65,Previous hospitalizations,Yes,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,9,History of hypertension,Yes,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,26,Frequent infections,Yes,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,75,No significant history,No,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,98,No significant history,Yes,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,3,History of hypertension,No,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,65,History of hypertension,No,Yes,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,14,Diabetes in family,Occasionally,No,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,21,Diabetes in family,No,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,2,No significant history,Occasionally,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,11,Family history of heart disease,No,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,85,History of hypertension,Occasionally,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,91,No significant history,No,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,18,History of hypertension,Yes,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,94,No significant history,Occasionally,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,9,History of hypertension,Occasionally,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Male,37,History of migraines,Occasionally,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,14,Previous hospitalizations,No,No,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,92,History of hypertension,Occasionally,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,50,No significant history,No,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,70,Family history of heart disease,Yes,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,17,History of hypertension,Yes,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,4,Previous hospitalizations,No,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,37,History of migraines,No,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,18,Diabetes in family,Yes,Yes,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,40,Frequent infections,Yes,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,39,Previous hospitalizations,No,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,87,Previous hospitalizations,Occasionally,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,78,No significant history,Yes,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Male,2,No significant history,No,Yes,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,41,Diabetes in family,Yes,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,85,Diabetes in family,Yes,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,11,Diabetes in family,Yes,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,87,History of hypertension,Yes,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,62,Diabetes in family,Occasionally,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,47,No significant history,Occasionally,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,58,No significant history,Occasionally,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,65,Family history of heart disease,No,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,65,History of hypertension,No,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,27,History of migraines,Yes,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,35,No significant history,No,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,41,History of hypertension,Yes,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,30,Previous hospitalizations,Yes,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,51,No significant history,No,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,69,History of migraines,Yes,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,98,Frequent infections,Yes,Yes,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,54,History of migraines,Yes,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,81,Frequent infections,No,No,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,7,Frequent infections,No,No,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,32,Frequent infections,Occasionally,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,94,History of hypertension,Yes,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,26,Previous hospitalizations,Yes,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Female,50,Previous hospitalizations,Yes,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,43,Frequent infections,No,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,38,Diabetes in family,Yes,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,6,No significant history,No,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,80,Previous hospitalizations,Occasionally,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,71,Frequent infections,Yes,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,78,Previous hospitalizations,No,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,91,History of hypertension,Occasionally,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,94,Diabetes in family,No,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,2,Family history of heart disease,Occasionally,No,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,8,History of hypertension,Occasionally,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,89,History of migraines,Occasionally,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,86,History of migraines,Yes,No,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,61,Family history of heart disease,Yes,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,12,Diabetes in family,No,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,3,Previous hospitalizations,No,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,59,Frequent infections,No,Yes,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,50,Diabetes in family,Yes,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Male,6,History of hypertension,Yes,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,42,Diabetes in family,Occasionally,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,71,Diabetes in family,Yes,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,11,History of migraines,Occasionally,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,71,History of hypertension,Yes,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,84,No significant history,No,Yes,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,96,History of migraines,Occasionally,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,4,History of hypertension,Occasionally,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,96,Diabetes in family,Occasionally,Yes,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,52,Frequent infections,Yes,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,74,Frequent infections,Yes,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,13,No significant history,Yes,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,29,History of hypertension,Yes,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,79,Previous hospitalizations,No,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,24,Previous hospitalizations,Occasionally,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,28,No significant history,No,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,95,Frequent infections,Occasionally,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,57,Family history of heart disease,Occasionally,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,61,History of migraines,No,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,51,Previous hospitalizations,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,16,Previous hospitalizations,No,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,11,Frequent infections,Yes,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,86,Diabetes in family,Occasionally,No,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,6,No significant history,No,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,91,History of migraines,Yes,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,58,Previous hospitalizations,No,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,51,No significant history,Yes,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,79,Frequent infections,Yes,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,47,Diabetes in family,No,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,70,No significant history,Occasionally,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,19,No significant history,No,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,83,Diabetes in family,No,No,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,28,History of migraines,Occasionally,Yes,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,55,Diabetes in family,No,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,78,Diabetes in family,No,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,94,History of migraines,Occasionally,No,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,50,Frequent infections,No,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,57,History of migraines,No,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,12,History of migraines,No,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,13,Diabetes in family,No,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,21,Frequent infections,Occasionally,No,Yes,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,98,Family history of heart disease,Yes,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,18,No significant history,Yes,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,67,History of migraines,No,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,39,Diabetes in family,No,Yes,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Other,28,Diabetes in family,No,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,6,Diabetes in family,Yes,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,79,Previous hospitalizations,Yes,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,6,History of migraines,Occasionally,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,19,Previous hospitalizations,Yes,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,70,Diabetes in family,No,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,60,No significant history,No,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,25,Frequent infections,No,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,47,Previous hospitalizations,Yes,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,31,History of migraines,Occasionally,Yes,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,92,Diabetes in family,Yes,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,26,Frequent infections,Yes,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,51,History of hypertension,Yes,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,87,Family history of heart disease,Occasionally,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,89,History of hypertension,Occasionally,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,83,History of hypertension,Occasionally,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,52,Diabetes in family,Occasionally,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,16,Frequent infections,Yes,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,15,Family history of heart disease,Yes,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,67,Diabetes in family,No,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,83,History of migraines,Yes,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,36,Family history of heart disease,No,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,71,History of migraines,Yes,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Other,12,Family history of heart disease,No,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Female,54,Diabetes in family,Yes,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,63,History of migraines,Yes,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,56,History of hypertension,Yes,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,72,History of hypertension,No,No,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,24,History of migraines,Occasionally,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,46,Frequent infections,Yes,Yes,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,13,Previous hospitalizations,Yes,No,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,30,Previous hospitalizations,Occasionally,Yes,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,38,Diabetes in family,Yes,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,53,History of hypertension,No,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,27,Frequent infections,Yes,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,12,Previous hospitalizations,Yes,No,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,31,Family history of heart disease,No,Yes,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,21,Frequent infections,Occasionally,Yes,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,10,Family history of heart disease,Yes,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,56,Diabetes in family,Yes,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,54,History of migraines,No,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,49,History of hypertension,No,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,14,No significant history,No,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,7,Previous hospitalizations,Occasionally,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,4,Diabetes in family,Yes,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,65,Diabetes in family,Occasionally,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,57,History of hypertension,No,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Female,9,Frequent infections,No,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,44,Frequent infections,No,Yes,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,46,Frequent infections,Occasionally,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,89,Family history of heart disease,Yes,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,27,Diabetes in family,Yes,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,93,Family history of heart disease,Occasionally,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,30,Diabetes in family,Yes,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,65,Family history of heart disease,No,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,58,No significant history,Yes,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,95,History of migraines,Yes,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,8,History of hypertension,Yes,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,77,History of migraines,No,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,63,No significant history,No,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,92,Frequent infections,No,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,63,Family history of heart disease,No,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,37,Previous hospitalizations,Occasionally,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,95,Family history of heart disease,No,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,86,Frequent infections,Yes,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,72,Diabetes in family,Yes,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,32,History of migraines,Yes,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,5,Diabetes in family,Yes,No,Yes,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Female,16,Frequent infections,Yes,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,41,History of hypertension,Occasionally,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,23,No significant history,Yes,No,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,91,No significant history,Yes,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Male,40,Frequent infections,Occasionally,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,17,History of hypertension,Occasionally,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,69,No significant history,Occasionally,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,31,Family history of heart disease,Yes,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,17,Diabetes in family,Occasionally,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,32,No significant history,No,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,54,Previous hospitalizations,No,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,90,Frequent infections,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,23,No significant history,Occasionally,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,48,Diabetes in family,No,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,1,History of migraines,Yes,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,74,Family history of heart disease,Occasionally,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,36,No significant history,Occasionally,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,8,Family history of heart disease,Occasionally,No,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,28,History of hypertension,Yes,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,56,History of migraines,No,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,20,Previous hospitalizations,No,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,69,History of migraines,Occasionally,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,40,Frequent infections,Occasionally,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,34,Diabetes in family,No,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,32,Previous hospitalizations,Yes,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,32,Frequent infections,Yes,No,Yes,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,35,Frequent infections,Occasionally,Yes,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,9,History of hypertension,No,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,76,History of hypertension,Yes,Yes,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,82,Frequent infections,Occasionally,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,90,Family history of heart disease,Occasionally,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,72,History of hypertension,Yes,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,26,History of hypertension,Occasionally,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,55,History of hypertension,Occasionally,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,91,History of hypertension,No,No,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,72,Frequent infections,Yes,No,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Male,50,History of migraines,Yes,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,11,History of hypertension,Occasionally,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,83,No significant history,No,No,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,94,No significant history,Yes,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,96,Frequent infections,No,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,9,History of hypertension,No,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,52,Family history of heart disease,Yes,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,63,Frequent infections,Yes,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,64,Frequent infections,No,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,27,History of migraines,Occasionally,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,36,History of migraines,Occasionally,No,No,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,34,Diabetes in family,No,Yes,No,Dengue,Stay hydrated and drink papaya leaf extract. Avoid non-steroidal pain relievers.
+Male,55,Frequent infections,Occasionally,Yes,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,27,Previous hospitalizations,No,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,23,Previous hospitalizations,No,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,63,Diabetes in family,No,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,26,No significant history,No,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,35,Diabetes in family,Occasionally,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,60,History of hypertension,No,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,27,No significant history,Yes,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Male,60,Family history of heart disease,Occasionally,Yes,Yes,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Male,6,Previous hospitalizations,Occasionally,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,79,No significant history,Yes,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,95,Diabetes in family,Yes,No,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,69,Diabetes in family,Yes,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,43,History of hypertension,Yes,Yes,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Male,77,Frequent infections,Occasionally,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,4,Frequent infections,No,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Female,87,Previous hospitalizations,Occasionally,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,86,No significant history,No,Yes,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,33,Frequent infections,Occasionally,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,95,History of hypertension,No,No,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,58,No significant history,Yes,Yes,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,38,History of migraines,No,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Female,21,Family history of heart disease,No,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,4,Previous hospitalizations,Occasionally,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,46,No significant history,Occasionally,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,60,Frequent infections,No,Yes,No,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,92,Diabetes in family,Occasionally,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,51,Family history of heart disease,Occasionally,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Other,58,Previous hospitalizations,Occasionally,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,59,No significant history,No,Yes,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,53,History of migraines,No,Yes,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,87,Previous hospitalizations,Occasionally,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,30,No significant history,No,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,68,No significant history,Occasionally,No,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,75,Family history of heart disease,Occasionally,Yes,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,79,Diabetes in family,Occasionally,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,96,Family history of heart disease,Yes,No,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,76,Family history of heart disease,No,Yes,No,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,12,Previous hospitalizations,Occasionally,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,41,Diabetes in family,Occasionally,Yes,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,67,Family history of heart disease,Yes,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,60,History of migraines,Yes,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,54,No significant history,Yes,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Female,88,History of migraines,Yes,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Male,80,Previous hospitalizations,No,Yes,Yes,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,10,No significant history,Occasionally,No,No,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Female,78,Diabetes in family,Occasionally,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,89,History of migraines,Yes,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,73,Family history of heart disease,Occasionally,No,No,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Male,47,No significant history,Occasionally,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Male,37,History of hypertension,No,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Male,38,Diabetes in family,Occasionally,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,57,History of migraines,No,No,Yes,Pneumonia,Rest and drink plenty of warm fluids. Ginger tea and honey help soothe the throat.
+Other,83,Diabetes in family,Occasionally,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Female,61,Family history of heart disease,No,No,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,19,History of migraines,Yes,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,53,History of migraines,Occasionally,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Other,49,History of hypertension,Yes,Yes,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,68,Previous hospitalizations,No,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Female,25,Family history of heart disease,No,No,Yes,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Female,80,Family history of heart disease,Occasionally,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,47,No significant history,Occasionally,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Male,4,Diabetes in family,Yes,No,No,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,11,Previous hospitalizations,Yes,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Male,48,History of migraines,Yes,Yes,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,99,Previous hospitalizations,No,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,29,Frequent infections,Yes,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,71,Previous hospitalizations,Yes,No,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Other,63,No significant history,Yes,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Other,94,Frequent infections,No,Yes,Yes,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Other,67,No significant history,Yes,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Male,11,Frequent infections,Occasionally,No,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,64,History of hypertension,Yes,Yes,Yes,Diabetes,Maintain a low-carb diet and drink bitter gourd juice. Regular exercise helps regulate blood sugar.
+Female,78,History of migraines,Occasionally,Yes,No,Acid reflux,Avoid lying down after eating. Drink aloe vera juice and chew gum to reduce acid reflux.
+Male,78,Frequent infections,Occasionally,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Other,19,History of migraines,No,Yes,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Male,26,No significant history,Occasionally,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Other,21,Frequent infections,Yes,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,25,Frequent infections,No,No,No,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Male,97,Frequent infections,Yes,Yes,Yes,Fibromyalgia,Regular exercise and stress management can help. Warm baths and gentle yoga may reduce pain.
+Other,18,History of hypertension,Yes,No,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,63,History of hypertension,Occasionally,No,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Female,41,Diabetes in family,No,No,No,Menstrual cramps,Use a heating pad on the abdomen. Drink cinnamon or chamomile tea for pain relief.
+Female,35,Frequent infections,No,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,60,No significant history,Occasionally,Yes,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,62,Frequent infections,Yes,No,Yes,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,69,History of hypertension,No,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Female,13,Diabetes in family,Occasionally,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,24,Family history of heart disease,Yes,Yes,No,Tuberculosis,Take prescribed antibiotics. Eat a protein-rich diet with eggs and dairy for strength.
+Other,74,History of migraines,No,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,81,Family history of heart disease,Occasionally,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,44,Frequent infections,No,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,30,No significant history,Occasionally,No,No,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,37,Frequent infections,Yes,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,84,Diabetes in family,Yes,No,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Male,32,Frequent infections,Yes,Yes,Yes,Anemia,"Increase iron intake with spinach, lentils, and beetroot juice. Avoid drinking tea with meals."
+Female,37,No significant history,No,No,Yes,Dehydration,Drink ORS solution and coconut water. Avoid caffeinated drinks that worsen dehydration.
+Female,92,Diabetes in family,Yes,No,Yes,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Female,20,Family history of heart disease,Occasionally,No,Yes,Asthma,Use prescribed inhalers and practice breathing exercises. Avoid smoke and allergens.
+Male,18,Diabetes in family,No,Yes,No,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Female,7,Previous hospitalizations,Occasionally,No,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Male,43,No significant history,Yes,No,No,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,32,No significant history,No,Yes,Yes,Eczema,Use fragrance-free moisturizers and apply coconut oil to affected areas to reduce itching.
+Other,41,Diabetes in family,Yes,Yes,No,Arthritis,Apply warm compresses and use turmeric in diet. Maintain a healthy weight to reduce joint stress.
+Female,39,Diabetes in family,No,No,Yes,Hepatitis,Avoid alcohol and eat a liver-friendly diet rich in leafy greens and garlic.
+Other,1,Previous hospitalizations,No,Yes,No,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Female,41,Previous hospitalizations,Yes,Yes,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
+Other,80,Diabetes in family,No,Yes,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Other,42,Diabetes in family,Yes,Yes,Yes,Hypertension,Reduce salt intake and drink hibiscus tea. Daily exercise helps regulate blood pressure.
+Other,49,History of migraines,No,Yes,Yes,Migraine,Avoid strong lights and stay in a dark room. Apply a cold compress to the forehead.
+Male,54,No significant history,No,No,No,Gastritis,Eat smaller meals and drink chamomile tea. Avoid spicy foods and smoking.
+Male,61,History of migraines,No,No,Yes,Stroke,Seek emergency care immediately. Long-term recovery includes physiotherapy and speech therapy.
+Other,38,Frequent infections,No,Yes,No,Sepsis,Seek immediate medical attention. Drink plenty of fluids and monitor for worsening symptoms.
+Other,84,Previous hospitalizations,Yes,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Male,68,Previous hospitalizations,Yes,Yes,Yes,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Other,58,Diabetes in family,No,No,No,Sinusitis,Inhale steam with eucalyptus oil. Drink warm ginger tea to reduce congestion.
+Female,56,Family history of heart disease,No,Yes,No,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Female,80,History of hypertension,Yes,No,No,Heart attack,Seek immediate medical help. Aspirin can help in emergencies. Adopt a heart-healthy diet.
+Female,56,History of migraines,Yes,No,Yes,Cholera,Drink ORS solution and avoid contaminated food. Coconut water helps restore electrolytes.
+Other,44,Diabetes in family,Yes,No,No,Lupus,Wear sunscreen and maintain an anti-inflammatory diet with omega-3-rich foods.
